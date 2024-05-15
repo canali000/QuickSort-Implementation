@@ -5,7 +5,6 @@ class QuickSort:
 
     def __init__(self,kargolar): 
         self.list = kargolar
-        self.listState = None
 
     def sorter(self):
         # kullanılacak verileri içeren liste
