@@ -131,7 +131,7 @@ class RunTime:
         print("10, 100, 1000 ve 2500 elemanlı testler ve sonuçları:")
         print()
         for i in range(4):
-            print(f"{i+1}. test. sonucu geçen süre: {performance[i]}")
+            print(f"{i+1}. test sonucu geçen süre: {performance[i]}")
 
         return performance
 
